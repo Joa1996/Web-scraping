@@ -1,3 +1,8 @@
+'''
+La idea de este webscraper es obtener el valor UVA de todos los meses de esta pagina 
+https://ikiwi.net.ar/valor-uva
+
+'''
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
